@@ -1,2 +1,4 @@
 # face-detection-recognition
-i have uploaded face detection and recognition separately
+# the central perk crew 
+# team leader-Thyaaneshwar S
+I have uploaded face detection and recognition separately
